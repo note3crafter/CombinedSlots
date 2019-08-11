@@ -2,6 +2,7 @@
 # The format is same as below!
 # If the port is default (19132) you can just add the server ip!
 servers:
-- play.vastlands.net:19132
-- sw.cosmicpe.me:19132
-- fallentech.tk:19132
+- noteland.citybuild.one:19132
+- noteland.citybuild.one:7777
+- noteland.citybuild.one:6666
+- noteland.citybuild.one:5555
